@@ -1,6 +1,8 @@
 `npx create-next-app@latest react-rxjs --typescript --use-npm`
 `npm install rxjs`<br>
-what is rxjs ? https://rxjs.dev/
+what is rxjs ? https://rxjs.dev/ <br>
+RxJS is a library for reactive programming using Observables, to make it easier to compose asynchronous or callback-based code. This project is a rewrite of Reactive-Extensions/RxJS with better performance, better modularity, better debuggable call stacks, while staying mostly backwards compatible, with some breaking changes that reduce the API surface <br>
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
